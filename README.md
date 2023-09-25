@@ -4,6 +4,12 @@
 
 This is a clock application built with React and Bootstrap, designed to implement a countdown timer with session and break periods, inspired by the freeCodeCamp Front End Libraries project requirements.
 
+## Deployed
+
+```
+https://main--grand-sherbet-7e80e7.netlify.app/
+```
+
 ## Dependencies
 
 - `npm install bootstrap`
